@@ -11,5 +11,13 @@
   "dependencies": {
     "jason-server": "^3.0.0",
     "json-server": "^0.17.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wellington2708/requisicoesJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Wellington2708/requisicoesJS/issues"
+  },
+  "homepage": "https://github.com/Wellington2708/requisicoesJS#readme"
 }
